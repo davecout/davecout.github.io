@@ -1,8 +1,6 @@
-# Beautiful Architecture
-
 [list](list.md)
 
-What are the ingredients of robust, elegant, flexible, and maintainable software architecture? *Beautiful Architecture* answers this question through a collection of intriguing essays from more than a dozen of today's leading software designers and architects. In each essay, contributors present a notable software architecture, and analyze what makes it innovative and ideal for its purpose.
+# Beautiful Architecture
 
 <figure>
   <img src="Beautiful-Architecture.png" alt="Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design" style="width:250px">
@@ -25,51 +23,23 @@ What are the ingredients of robust, elegant, flexible, and maintainable software
    <meta itemprop="accessibilityAPI" content="ARIA"/>
 
    <dl>
-      <dt>Name:</dt>
-      <dd itemprop="name">Holt Physical Science</dd>
-      <dt>Brief Synopsis:</dt>
-      <dd itemprop="description">NIMAC-sourced textbook</dd>
-      <dt>Long Synopsis:</dt>
-      <dd>N/A</dd>
-      <dt>Book Quality:</dt>
-      <dd>Publisher Quality</dd>
-      <dt>Book Size:</dt>
-      <dd><span itemprop="numberOfPages">598</span> Pages</dd>
-      <dt>ISBN-13:</dt>
-      <dd itemprop="isbn">9780030426599</dd>
-      <dt>Publisher:</dt>
-      <dd itemprop="publisher" itemtype="https://schema.org/Organization" itemscope=""><span itemprop="name">Holt, Rinehart and Winston</span></dd>
-      <dt>Date of Addition:</dt>
-      <dd>06/08/10</dd>
-      <dt>Copyright Date:</dt>
-      <dd itemprop="copyrightYear">2007</dd>
-      <dt>Copyrighted By:</dt>
-      <dd itemprop="copyrightHolder" itemtype="https://schema.org/Organization" itemscope=""><span itemprop="name">Holt, Rinehart and Winston</span></dd>
-      <dt>Adult content:</dt>
-      <dd><meta itemprop="isFamilyFriendly" content="true"/>No</dd>
-      <dt>Language:</dt>
+      <dt>Title</dt>
+      <dd itemprop="name">Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design</dd>
+      <dt>Synopsis</dt>
+      <dd itemprop="description">What are the ingredients of robust, elegant, flexible, and maintainable software architecture? Beautiful Architecture answers this question through a collection of intriguing essays from more than a dozen of today's leading software designers and architects. In each essay, contributors present a notable software architecture, and analyze what makes it innovative and ideal for its purpose.</dd>
+      <dt>Book Size</dt>
+      <dd><span itemprop="numberOfPages">428</span> Pages</dd>
+      <dt>ISBN-13</dt>
+      <dd itemprop="isbn">978-0596517984</dd>
+      <dt>Publisher</dt>
+      <dd itemprop="publisher" itemtype="https://schema.org/Organization" itemscope=""><span itemprop="name">O'Reilly Media</span></dd>
+      <dt>Copyright Date</dt>
+      <dd itemprop="copyrightYear">2009</dd>
+      <dt>Copyrighted By</dt>
+      <dd itemprop="copyrightHolder" itemtype="https://schema.org/Organization" itemscope=""><span itemprop="name">O'Reilly Media</span></dd>
+      <dt>Language</dt>
       <dd><meta itemprop="inLanguage" content="en-US"/>English US</dd>
-      <dt>Essential Images:</dt>
-      <dd>861</dd>
-      <dt>Described Images:</dt>
-      <dd>910</dd>
-      <dt>Categories:</dt>
-      <dd><span itemprop="genre">Educational Materials</span></dd>
-      <dt>Grade Levels:</dt>
-      <dd>Sixth grade, Seventh grade, Eighth grade</dd>
-      <dt>Submitted By:</dt>
-      <dd>Bookshare Staff</dd>
-      <dt>NIMAC:</dt>
-      <dd>This book is currently only available to public K-12 schools and organizations in the
-      United States for use with students with an IEP, because it was created from files
-      supplied by the NIMAC under these restrictions. Learn more in the NIMAC Support Center.</dd>
+      <dt>Categories</dt>
+      <dd><span itemprop="genre">Software Engineering</span></dd>
    </dl>
-
-   <div class="bookReviews" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
-      <h2>Reviews of Holt Physical Science (<span itemprop="reviewCount">0</span> reviews)</h2>
-
-      <div class="bookReviewScore">
-         <span><span itemprop="ratingValue">0</span> - No Rating Yet</span>
-      </div>
-   </div>
 </div>
