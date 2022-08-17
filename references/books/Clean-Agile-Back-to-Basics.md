@@ -43,6 +43,6 @@
       <dt>Language</dt>
       <dd><meta itemprop="inLanguage" content="en-US"/>English US</dd>
       <dt>Categories</dt>
-      <dd><span itemprop="genre">Agile</span>& <span itemprop="genre">Software Engineering</span></dd>
+      <dd><span itemprop="genre">Agile</span>& <span itemprop="genre">Software Development</span></dd>
    </dl>
 </div>
