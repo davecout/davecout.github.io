@@ -7,6 +7,7 @@
   <figcaption>Fig.1 - Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design.</figcaption>
 </figure>
 
+
 <div itemscope="" itemtype="https://schema.org/Book">
    <meta itemprop="bookFormat" content="EBook/DAISY3"/>
    <meta itemprop="accessibilityFeature" content="largePrint/CSSEnabled"/>
@@ -25,6 +26,8 @@
    <dl>
       <dt>Title</dt>
       <dd itemprop="name">Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design</dd>
+	  <dt>Autors</dt>
+	  <dd itemprop="author" itemtype="https://schema.org/Person" itemscope=""><span itemprop="name">Diomidis Spinellis</span> & <span itemprop="name">Georgios Gousios</span></dd>
       <dt>Synopsis</dt>
       <dd itemprop="description">What are the ingredients of robust, elegant, flexible, and maintainable software architecture? Beautiful Architecture answers this question through a collection of intriguing essays from more than a dozen of today's leading software designers and architects. In each essay, contributors present a notable software architecture, and analyze what makes it innovative and ideal for its purpose.</dd>
       <dt>Book Size</dt>
