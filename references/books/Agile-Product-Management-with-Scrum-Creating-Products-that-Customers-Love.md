@@ -1,10 +1,10 @@
 [list](list.md)
 
-# User Stories Applied
+# Agile Product Management with Scrum
 
 <figure>
-  <img src="User-Stories-Applied.png" alt="User Stories Applied: for Agile Software Development" style="width:250px">
-  <figcaption>Fig.1 - User Stories Applied: for Agile Software Development.</figcaption>
+  <img src="Agile-Product-Management-with-Scrum.png" alt="Agile Product Management with Scrum: Creating Products that Customers Love" style="width:250px">
+  <figcaption>Fig.1 - Agile Product Management with Scrum: Creating Products that Customers Love.</figcaption>
 </figure>
 </br>
 
@@ -25,19 +25,19 @@
 
    <dl>
       <dt>Title</dt>
-      <dd itemprop="name">User Stories Applied: for Agile Software Development</dd>
+      <dd itemprop="name">Agile Product Management with Scrum: Creating Products that Customers Love.</dd>
 	  <dt>Autors</dt>
-	  <dd itemprop="author" itemtype="https://schema.org/Person" itemscope=""><span itemprop="name">Mike Cohn</span></dd>
+	  <dd itemprop="author" itemtype="https://schema.org/Person" itemscope=""><span itemprop="name">Jeff Sutherland</span>, & <span itemprop="name">Brett Queener</span></dd>
       <dt>Synopsis</dt>
-      <dd itemprop="description">Thoroughly reviewed and eagerly anticipated by the agile community, User Stories Applied offers a requirements process that saves time, eliminates rework, and leads directly to better software. A great way to build software that meets users' needs is to begin with "user stories": simple, clear, brief descriptions of functionality that will be valuable to real users. In User Stories Applied, Mike Cohn provides you with a front-to-back blueprint for writing these user stories and weaving them into your development lifecycle.</dd>
+      <dd itemprop="description">In Agile Product Management with Scrum, leading Scrum consultant Roman Pichler uses real-world examples to demonstrate how product owners can create successful products with Scrum. He describes a broad range of agile product management practices, including making agile product discovery work, taking advantage of emergent requirements, creating the minimal marketable product, leveraging early customer feedback, and working closely with the development team.</dd>
       <dt>Book Size</dt>
-      <dd><span itemprop="numberOfPages">304</span> Pages</dd>
+      <dd><span itemprop="numberOfPages">160</span> Pages</dd>
       <dt>ISBN-13</dt>
-      <dd itemprop="isbn">978-0321205681</dd>
+      <dd itemprop="isbn">978-0321605788</dd>
       <dt>Publisher</dt>
       <dd itemprop="publisher" itemtype="https://schema.org/Organization" itemscope=""><span itemprop="name">Addison-Wesley Professional</span></dd>
       <dt>Copyright Date</dt>
-      <dd itemprop="copyrightYear">2004</dd>
+      <dd itemprop="copyrightYear">2010</dd>
       <dt>Copyrighted By</dt>
       <dd itemprop="copyrightHolder" itemtype="https://schema.org/Organization" itemscope=""><span itemprop="name">Addison-Wesley Professional</span></dd>
       <dt>Language</dt>

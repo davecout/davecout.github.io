@@ -6,7 +6,7 @@
   <img src="Clean-Agile.png" alt="Clean Agile: Back to Basics" style="width:250px">
   <figcaption>Fig.1 - Clean Agile: Back to Basics.</figcaption>
 </figure>
-
+</br>
 
 <div itemscope="" itemtype="https://schema.org/Book">
    <meta itemprop="bookFormat" content="EBook/DAISY3"/>

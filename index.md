@@ -2,5 +2,8 @@
 
 ...
 
-[Glossary](./definitions/glossary.html)
-[Books](./references/books/list.html)
+* [Glossary](./definitions/glossary.html)
+
+## References
+
+* [Books](./references/books/list.html)
