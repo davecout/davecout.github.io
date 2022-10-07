@@ -6,7 +6,6 @@
   <img src="Agile-Product-Management-with-Scrum.png" alt="Agile Product Management with Scrum: Creating Products that Customers Love" style="width:250px">
   <figcaption>Fig.1 - Agile Product Management with Scrum: Creating Products that Customers Love.</figcaption>
 </figure>
-</br>
 
 <div itemscope="" itemtype="https://schema.org/Book">
    <meta itemprop="bookFormat" content="EBook/DAISY3"/>
