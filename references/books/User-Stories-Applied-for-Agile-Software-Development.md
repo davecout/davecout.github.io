@@ -6,7 +6,6 @@
   <img src="User-Stories-Applied.png" alt="User Stories Applied: for Agile Software Development" style="width:250px">
   <figcaption>Fig.1 - User Stories Applied: for Agile Software Development.</figcaption>
 </figure>
-</br>
 
 <div itemscope="" itemtype="https://schema.org/Book">
    <meta itemprop="bookFormat" content="EBook/DAISY3"/>
