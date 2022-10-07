@@ -6,7 +6,6 @@
   <img src="Agile-Estimating-and-Planning.png" alt="Agile Estimating and Planning" style="width:250px">
   <figcaption>Fig.1 - Agile Estimating and Planning.</figcaption>
 </figure>
-</br>
 
 <div itemscope="" itemtype="https://schema.org/Book">
    <meta itemprop="bookFormat" content="EBook/DAISY3"/>
