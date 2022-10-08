@@ -1,4 +1,4 @@
-[list](list.md)
+[Home](../../index.md) \ References \ [Books](list.md)
 
 # Beautiful Architecture
 
