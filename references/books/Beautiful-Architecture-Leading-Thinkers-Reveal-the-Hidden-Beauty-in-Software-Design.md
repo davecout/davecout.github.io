@@ -6,7 +6,6 @@
   <img src="Beautiful-Architecture.png" alt="Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design" style="width:250px">
   <figcaption>Fig.1 - Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design.</figcaption>
 </figure>
-</br>
 
 <div itemscope="" itemtype="https://schema.org/Book">
    <meta itemprop="bookFormat" content="EBook/DAISY3"/>
