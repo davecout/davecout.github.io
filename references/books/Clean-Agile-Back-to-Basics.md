@@ -28,7 +28,7 @@
 	  <dt>Autors</dt>
 	  <dd itemprop="author" itemtype="https://schema.org/Person" itemscope=""><span itemprop="name">Robert C. Martin</span></dd>
       <dt>Synopsis</dt>
-      <dd itemprop="description">Nearly twenty years after the Agile Manifesto was first presented, the legendary Robert C. Martin (“Uncle Bob”) reintroduces Agile values and principles for a new generation–programmers and nonprogrammers alike. Martin, author of Clean Code and other highly influential software development guides, was there at Agile’s founding. Now, in Clean Agile: Back to Basics, he strips away misunderstandings and distractions that over the years have made it harder to use Agile than was originally intended.</dd>
+      <dd itemprop="description">Nearly twenty years after the Agile Manifesto was first presented, the legendary Robert C. Martin ("Uncle Bob") reintroduces Agile values and principles for a new generation-programmers and nonprogrammers alike. Martin, author of Clean Code and other highly influential software development guides, was there at Agile's founding. Now, in Clean Agile: Back to Basics, he strips away misunderstandings and distractions that over the years have made it harder to use Agile than was originally intended.</dd>
       <dt>Book Size</dt>
       <dd><span itemprop="numberOfPages">240</span> Pages</dd>
       <dt>ISBN-13</dt>
@@ -42,6 +42,6 @@
       <dt>Language</dt>
       <dd><meta itemprop="inLanguage" content="en-US"/>English US</dd>
       <dt>Categories</dt>
-      <dd><span itemprop="genre">Agile</span>& <span itemprop="genre">Software Development</span></dd>
+      <dd><span itemprop="genre">Agile</span> & <span itemprop="genre">Software Development</span></dd>
    </dl>
 </div>
