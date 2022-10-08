@@ -11,7 +11,7 @@
 
 * [Database](database.html)
 * [Database Management System](database-management-system.html)
-* [Design Constraint](design-contraint.html)
+* [Design Constraint](design-constraint.html)
 
 ## F
 
