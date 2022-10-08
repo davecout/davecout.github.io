@@ -6,4 +6,4 @@
 
 ## References
 
-* [Books](./references/books/list.html)
+* [Books](./references/books/list.md)
