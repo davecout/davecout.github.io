@@ -3,7 +3,7 @@
 # Systems Analysis and Design with UML 2.0
 
 <figure>
-  <img src="Systems-Analysis-and-Design-with-UML-Version-2-0" alt="Systems Analysis and Design with UML Version 2.0: An Object-Oriented Approach, Second Edition" style="width:250px">
+  <img src="Systems-Analysis-and-Design-with-UML-Version-2-0.png" alt="Systems Analysis and Design with UML Version 2.0: An Object-Oriented Approach, Second Edition" style="width:250px">
   <figcaption>Fig.1 - Systems Analysis and Design with UML Version 2.0: An Object-Oriented Approach, Second Edition.</figcaption>
 </figure>
 </br>
