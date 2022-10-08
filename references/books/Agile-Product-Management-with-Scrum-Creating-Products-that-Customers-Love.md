@@ -1,4 +1,4 @@
-[list](list.md)
+[Home](../../index.md) \ References \ [Books](list.md)
 
 # Agile Product Management with Scrum
 
