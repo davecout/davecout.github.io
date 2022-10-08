@@ -1,4 +1,4 @@
-[glossary](glossary.md)
+[Home](../../index.html) \ [Glossary](glossary.html)
 
 # Story Point
 
