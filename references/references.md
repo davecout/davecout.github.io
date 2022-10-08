@@ -2,5 +2,5 @@
 
 # References
 
-* [Books](../books/list.html)
-* [Websites](../websites/list.html)
+* [Books](./books/list.html)
+* [Websites](./websites/list.html)

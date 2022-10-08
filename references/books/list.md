@@ -1,4 +1,4 @@
-[Home](../../index.md) \ References \ Books
+[Home](../../index.md) \ [References](../references.md)
 
 # List
 
