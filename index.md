@@ -2,7 +2,7 @@
 
 ...
 
-* [Glossary](./definitions/glossary.html)
+* [Glossary](./definitions/glossary.md)
 
 ## References
 
