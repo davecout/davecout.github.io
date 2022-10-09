@@ -3,7 +3,7 @@
 # Standards, Guidelines, and Examples on System and Software Requirements Engineering
 
 <figure>
-  <img src="User-Stories-Applied.png" alt="Standards, Guidelines, and Examples on System and Software Requirements Engineering" style="width:250px">
+  <img src="Standards-Guidelines-and-Examples-on-System-and-Software-Requirements-Engineering.png" alt="Standards, Guidelines, and Examples on System and Software Requirements Engineering" style="width:250px">
   <figcaption>Fig.1 - Standards, Guidelines, and Examples on System and Software Requirements Engineering.</figcaption>
 </figure>
 
