@@ -5,16 +5,16 @@
 ## By Titles
 
 * [Agile Estimating and Planning.](Agile-Estimating-and-Planning.html)
-* [Agile Product Management with Scrum: Creating Products that Customers Love](Agile-Product-Management-with-Scrum-Creating-Products-that-Customers-Love.html)
-* [BABOK: A Guide to the Business Analysis Body of Knowledge, v3](Babok-A-Guide-to-the-Business-Analysis-Body-of-Knowledge.html)
-* [Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design](Beautiful-Architecture-Leading-Thinkers-Reveal-the-Hidden-Beauty-in-Software-Design.html)
+* [Agile Product Management with Scrum: Creating Products that Customers Love.](Agile-Product-Management-with-Scrum-Creating-Products-that-Customers-Love.html)
+* [BABOK: A Guide to the Business Analysis Body of Knowledge, v3.](Babok-A-Guide-to-the-Business-Analysis-Body-of-Knowledge.html)
+* [Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design.](Beautiful-Architecture-Leading-Thinkers-Reveal-the-Hidden-Beauty-in-Software-Design.html)
 * [Clean Agile: Back to Basics.](Clean-Agile-Back-to-Basics.html)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintenable Systems.](Designing-Data-Intensive-Applications-The-Big-Ideas-Behind-Reliable-Scalable-and-Maintenable-Systems.html)
-* [Managing Software Requirements: A Use Case Approach](Managing-Software-Requirements-A-Use-Case-Approach.html)
-* [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](Monolith-to-Microservices-Evolutionary-Patterns-to-Transform-Your-Monolith.html)
-* [Standards, Guidelines, and Examples on System and Software Requirements Engineering](Standards-Guidelines-and-Examples-on-System-and-Software-Requirements-Engineering.html)
-* [User Stories Applied: for Agile Software Development](User-Stories-Applied-for-Agile-Software-Development.html)
-* [Systems Analysis and Design with UML 2.0: An Object-Oriented Approach, Second Edition](Systems-Analysis-and-Design-with-UML-Version-2-0-An-Object-Oriented-Approach.html)
+* [Managing Software Requirements: A Use Case Approach.](Managing-Software-Requirements-A-Use-Case-Approach.html)
+* [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith.](Monolith-to-Microservices-Evolutionary-Patterns-to-Transform-Your-Monolith.html)
+* [Standards, Guidelines, and Examples on System and Software Requirements Engineering.](Standards-Guidelines-and-Examples-on-System-and-Software-Requirements-Engineering.html)
+* [User Stories Applied: for Agile Software Development.](User-Stories-Applied-for-Agile-Software-Development.html)
+* [Systems Analysis and Design with UML 2.0: An Object-Oriented Approach, Second Edition.](Systems-Analysis-and-Design-with-UML-Version-2-0-An-Object-Oriented-Approach.html)
 
 ## By Reference Codes
 
