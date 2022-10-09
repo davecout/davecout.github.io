@@ -10,7 +10,7 @@
 
 > An actor is someone or something that interacts with the system.  [^3]
 
-[^1] [REY2009, p. 33](../references/books/Introduction-to-Business-Architecture.html) Reynolds, Chris (2009). Introduction to Business Architecture. Course Technology PTR.
+[^1]: [REY2009, p. 33](../references/books/Introduction-to-Business-Architecture.html) Reynolds, Chris (2009). Introduction to Business Architecture. Course Technology PTR.
 
 [^2]: [DEN2004, p. 178](../references/books/Systems-Analysis-and-Design-with-UML-Version-2-0-An-Object-Oriented-Approach.html) Dennis, Alan, Haley Wixom, Barbada, & Tegarden David (2004). Systems Analysis and Design with UML 2.0: An Object-Oriented Approach, Second Edition. Wiley.
 
