@@ -6,4 +6,4 @@
 * [Glossary](./definitions/glossary.html)
 * [References](./references/references.html)
 
-[Test](.metamodel/software-categories.html)
+[Test](./metamodel/software-categories.html)
