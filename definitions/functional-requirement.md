@@ -2,13 +2,19 @@
 
 # Functional Requirement
 
+## Definition
+
 ...  
+
+## Citations
 
 > Describe the capabilities that a solution must have in terms of the behaviour and information that the solution will manage. [^1]
 
 > The requirements state what the system must do, and how it must behave or react to runtime stimuli. [^2]
 
 > A functional requirement relates direclty to a process the system has to perform or information it needs to contain. [^3]  
+
+## References
 
 [^1]: [[IIB2015, p. 16](../references/books/Babok-A-Guide-to-the-Business-Analysis-Body-of-Knowledge.html)] IIBA (2015). BABOK: A Guide to the Business Analysis Body of Knowledge. Lightning Source Inc.
 
