@@ -2,6 +2,8 @@
 
 # Glossary
 
+<a href="#a">A</a> <a href="#b">B</a>
+
 ## A
 
 * [Actor](actor.html)
@@ -48,7 +50,7 @@
 * [Information Architecture](information-architecture.html)
 * [Integration Test](integration-test.html)
 
-##
+## M
 
 * [Module](module.html)
 
@@ -104,6 +106,7 @@
 
 * [Unit Test](unit-test.html)
 * [Use Case](use-case.html)
+* [User](user.html)
 * [User Story](user-story.html)
 
 ## V
