@@ -10,6 +10,7 @@
 * [Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design.](Beautiful-Architecture-Leading-Thinkers-Reveal-the-Hidden-Beauty-in-Software-Design.html)
 * [Clean Agile: Back to Basics.](Clean-Agile-Back-to-Basics.html)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintenable Systems.](Designing-Data-Intensive-Applications-The-Big-Ideas-Behind-Reliable-Scalable-and-Maintenable-Systems.html)
+* [Designing Software Architecture: A Practical Approach](Designing-Software-Architecture-a-Practical-Approach.html)
 * [Introduction to Business Architecture.](Introduction-to-Business-Architecture.html)
 * [Managing Software Requirements: A Use Case Approach.](Managing-Software-Requirements-A-Use-Case-Approach.html)
 * [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith.](Monolith-to-Microservices-Evolutionary-Patterns-to-Transform-Your-Monolith.html)
@@ -23,6 +24,7 @@
 |Code|Reference|
 |---|---|
 |[BAS2012](Software-Architecture-in-Practice.html)|Bass, Len, Clements, Paul, & Kazman, Rick (2012). Software Architecture in Practice. Addison-Wesley Professional.|
+|[CER2016](Designing-Software-Architecture-a-Practical-Approach.html)|Cervantes, Humberto, & Kazman, Rick (2016). Designing Software Architecture: A Practical Approach. Addison-Wesley Professional.|
 |[COH2004](User-Stories-Applied-for-Agile-Software-Development.html)|<span itemscope="" itemtype="https://schema.org/Book"><span itemprop="author" itemtype="https://schema.org/Person" itemscope=""><span itemprop="name">Cohn, Mike</span></span> (<span itemprop="copyrightYear">2004</span>). <span itemprop="name">User Stories Applied: for Agile Software Development</span>. <span itemprop="copyrightHolder" itemtype="https://schema.org/Organization" itemscope=""><span itemprop="name">Addison-Wesley Professional</span></span>.</span>|
 |[COH2005](Agile-Estimating-and-Planning.html)|Cohn, Mike (2005). Agile Estimating and Planning. Pearson Education.|
 |[DEN2004](Systems-Analysis-and-Design-with-UML-Version-2-0-An-Object-Oriented-Approach.html)|Dennis, Alan, Haley Wixom, Barbada, & Tegarden David (2004). Systems Analysis and Design with UML 2.0: An Object-Oriented Approach, Second Edition. Wiley.|
