@@ -10,8 +10,9 @@
 * [Beautiful Architecture: Leading Thinkers Reveal the Hidden Beauty in Software Design.](Beautiful-Architecture-Leading-Thinkers-Reveal-the-Hidden-Beauty-in-Software-Design.html)
 * [Clean Agile: Back to Basics.](Clean-Agile-Back-to-Basics.html)
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintenable Systems.](Designing-Data-Intensive-Applications-The-Big-Ideas-Behind-Reliable-Scalable-and-Maintenable-Systems.html)
-* [Designing Software Architecture: A Practical Approach](Designing-Software-Architecture-a-Practical-Approach.html)
+* [Designing Software Architecture: A Practical Approach.](Designing-Software-Architecture-a-Practical-Approach.html)
 * [Introduction to Business Architecture.](Introduction-to-Business-Architecture.html)
+* [Key Performance Indicators: The 75 Measures Every Manager Needs to Know.](Key-Performance-Indicators-The-75-Measures-Every-Manager-Needs-to-Know.html)
 * [Managing Software Requirements: A Use Case Approach.](Managing-Software-Requirements-A-Use-Case-Approach.html)
 * [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith.](Monolith-to-Microservices-Evolutionary-Patterns-to-Transform-Your-Monolith.html)
 * [Software Architecture in Practice](Software-Architecture-in-Practice.html)
@@ -32,6 +33,7 @@
 |[IIB2015](Babok-A-Guide-to-the-Business-Analysis-Body-of-Knowledge.html)|IIBA (2015). BABOK: A Guide to the Business Analysis Body of Knowledge, v3. Lightning Source Inc.|
 |[KLE2017](Designing-Data-Intensive-Applications-The-Big-Ideas-Behind-Reliable-Scalable-and-Maintenable-Systems.html)|Kleppmann, Martin (2017). Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintenable Systems. O'Reilly Media|
 |[LEF2003](Managing-Software-Requirements-A-Use-Case-Approach.html)|Leffingwell, Dean, & Widrigh, Don (2003). Managing Software Requirements: A Use Case Approach. Addison-Wesley Professional.|
+|[MAR2012](Key-Performance-Indicators-The-75-Measures-Every-Manager-Needs-to-Know.html)|Marr, Bernard (2012). Key Performance Indicators: The 75 Measures Every Manager Needs to Know. Financial Times Press.|
 |[MAR2020](Clean-Agile-Back-to-Basics.html)|Martin C., Robert (2020). Clean Agile: Back to Basics. Pearson Education.|
 |[NEW2019](Monolith-to-Microservices-Evolutionary-Patterns-to-Transform-Your-Monolith.html)|Newman, Sam (2019). Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith. O'Reilly Media.|
 |[REY2009](Introduction-to-Business-Architecture.html)|Reynolds, Chris (2009). Introduction to Business Architecture. Course Technology PTR.|
