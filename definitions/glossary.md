@@ -2,7 +2,7 @@
 
 # Glossary
 
-<a href="#a">A</a> <a href="#b">B</a> <a href="#c">C</a> <a href="#d">D</a> <a href="#e">E</a> <a href="#f">F</a> <a href="#g">G</a> H <a href="#i">I</a> J K L <a href="#m">M</a> <a href="#n">N</a> <a href="#o">O</a> <a href="#p">P</a> <a href="#q">Q</a> <a href="#r">R</a> <a href="#s">S</a> <a href="#t">T</a> <a href="#u">U</a> <a href="#w">W</a> X Y Z
+<a href="#a">A</a> <a href="#b">B</a> <a href="#c">C</a> <a href="#d">D</a> <a href="#e">E</a> <a href="#f">F</a> <a href="#g">G</a> H <a href="#i">I</a> J <a href="#k">K</a> L <a href="#m">M</a> <a href="#n">N</a> <a href="#o">O</a> <a href="#p">P</a> <a href="#q">Q</a> <a href="#r">R</a> <a href="#s">S</a> <a href="#t">T</a> <a href="#u">U</a> <a href="#w">W</a> X Y Z
 
 ## A
 
@@ -54,7 +54,7 @@
 
 ## F
 
-* [First Pass Yield](first-pass-yield.html)
+* [First Pass Yield](first-pass-yield.html) (FPY)
 * [Functional Requirement](functional-requirement.html)
 * [Functionality](functionality.html)
 
@@ -69,10 +69,16 @@
 * [Integrator](integrator.html)
 * [Integration Test](integration-test.html)
 
+## K
+
+* [Key Performance Indicator](key-performance-indicator.html) (KPI)
+
 ## M
 
 * [Maintainer](maintainer.html)
-* [Minimum Viable Product](minimum-viable-product.html)
+* [Mesure](mesure.html)
+* [Metric](metric.html)
+* [Minimum Viable Product](minimum-viable-product.html) (MVP)
 * [Module](module.html)
 
 ## N
@@ -92,9 +98,9 @@
 * [Process](process.html)
 * [Product](product.html)
 * [Product Line Manager](product-line-manager.html)
-* [Project Cost Variance](project-cost-variance.html)
-* [Project Manager](project-manager.html)
-* [Project Schedule Variance](project-schedule-variance.html)
+* [Project Cost Variance](project-cost-variance.html) (PCV)
+* [Project Manager](project-manager.html) 
+* [Project Schedule Variance](project-schedule-variance.html) (PSV)
 
 ## Q
 
@@ -150,4 +156,4 @@
 ## W
 
 * [Waterfall](waterfall.html)
-* [Work Breakdown Structure](work-breakdown-structure.html)
+* [Work Breakdown Structure](work-breakdown-structure.html) (WBS)

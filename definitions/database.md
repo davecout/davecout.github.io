@@ -14,6 +14,6 @@
 
 # References
 
-[^1]: [[OPE2022](../references/websites/list.html)] The TOGAF Standard, 10th Edition. [B. Glossary of Supplementary Definitions
+[^1]: [[OPE2022](../references/websites/list.html)] The TOGAF Standard, 10th Edition. B. Glossary of Supplementary Definitions
 
 [^2]: [[DEN2004, p. 178](../references/books/Systems-Analysis-and-Design-with-UML-Version-2-0-An-Object-Oriented-Approach.html)] Dennis, Alan, Haley Wixom, Barbada, & Tegarden David (2004). Systems Analysis and Design with UML 2.0: An Object-Oriented Approach, Second Edition. Wiley.  
