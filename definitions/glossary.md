@@ -54,6 +54,7 @@
 
 ## F
 
+* [First Pass Yield](first-pass-yield.html)
 * [Functional Requirement](functional-requirement.html)
 * [Functionality](functionality.html)
 
@@ -91,7 +92,9 @@
 * [Process](process.html)
 * [Product](product.html)
 * [Product Line Manager](product-line-manager.html)
+* [Project Cost Variance](project-cost-variance.html)
 * [Project Manager](project-manager.html)
+* [Project Schedule Variance](project-schedule-variance.html)
 
 ## Q
 

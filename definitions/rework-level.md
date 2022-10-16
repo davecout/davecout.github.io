@@ -12,4 +12,4 @@
 
 ## References
 
-[^1]: [[MAR2012, p. 234-235](Key-Performance-Indicators-The-75-Measures-Every-Manager-Needs-to-Know.html)] Marr, Bernard (2012). Key Performance Indicators: The 75 Measures Every Manager Needs to Know. Financial Times Press.
+[^1]: [[MAR2012, p. 234-235](../references/books/Key-Performance-Indicators-The-75-Measures-Every-Manager-Needs-to-Know.html)] Marr, Bernard (2012). Key Performance Indicators: The 75 Measures Every Manager Needs to Know. Financial Times Press.
