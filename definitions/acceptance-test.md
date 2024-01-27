@@ -1,3 +1,8 @@
+---
+layout: glossary
+title: "Acceptance Test"
+---
+
 [Home](../../index.html) \ [Glossary](glossary.html)
 
 # Acceptance Test
