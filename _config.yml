@@ -1,1 +1,29 @@
-# theme: jekyll-theme-slate
+title:              Dave Couture
+email:              dave.couture@gmail.com
+description:        Des articles, des nouvelles et plus encore
+author:             Dave Couture
+baseurl:            "/davecout.github.io"
+url:                "https://davecout.github.io/"
+
+# URLs
+books_url: "/books"
+glossary_url: "/glossary"
+
+# Social Profiles
+twitter_username:   davecout
+github_username:    davecout
+facebook_username:  CoutureDave
+instagram_username: davecout
+linkedin_username:  davecouture
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
